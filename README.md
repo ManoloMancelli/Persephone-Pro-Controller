@@ -6,3 +6,4 @@ It uses a 3D printed shell and custom electronics based on Arduino along with Vi
 
 ## V1
 - ### [Changelog](/Changelog/V1/V1.md)
+- ### [Main IC](/Hardware/Main%20IC/Main%20IC.md)
