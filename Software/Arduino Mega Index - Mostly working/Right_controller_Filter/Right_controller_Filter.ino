@@ -25,7 +25,7 @@
 
 #define SERIAL_DEBUG
 #define IMU_ADDRESS     0x68                // You can find it out by using the IMUIdentifier example
-MPU9250 IMU;                                // IMU type
+MPU6050 IMU;                                // IMU type
 #define CALPIN              5               //pin to start mag calibration at power on
 
 #define APin                4
@@ -107,7 +107,7 @@ bool joyTouch = false;
 //==========================================================================================================
 //**************************************** RF Data stuff ***************************************************
 //==========================================================================================================
-RF24 radio(9, 10);
+RF24 radio(10, 9);
 uint64_t Pipe = 0xF0F0F0F0E1LL; //right
 //uint64_t Pipe = 0xF0F0F0F0D2LL; //left
 //==========================================================================================================
