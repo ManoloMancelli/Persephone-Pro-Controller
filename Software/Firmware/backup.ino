@@ -12,6 +12,7 @@
   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
+#include "Config.h"
 #include <Wire.h>
 #include <SPI.h>
 #include <EEPROM.h>

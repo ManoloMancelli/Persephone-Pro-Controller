@@ -1,0 +1,33 @@
+//==========================================================================================================
+//************************************ USER CONFIGURABLE STUFF HERE*****************************************
+//==========================================================================================================
+#define SERIAL_DEBUG
+#define IMU_ADDRESS     0x68                // You can find it out by using the IMUIdentifier example
+#define CALPIN              5              //pin to start mag calibration at power on
+#define APin                4
+#define BPin                3
+#define SysPin              5
+#define FingerIndexPin      11
+#define FingerMiddlePin     6
+#define FingerRingPin       7
+#define FingerPinkyPin      8
+#define TrackpadPin         A0
+#define JoyXPin             A1
+#define JoyYPin             A2
+#define JoyClickPin         2
+#define TriggerPin          A3
+#define VbatPin             A6
+#define BatLevelMax         968             //you need to find all of these values on your own
+#define JoyXMin             237             //check on the utils folder for sketches and instructions
+#define JoyXMax             935             //that help on getting these values
+#define JoyYMin             190             //YOU NEED TO DO THIS FOR BOTH CONTROLLERS
+#define JoyYMax             900             //if you use these values without changing them you MAY
+#define JoyXDeadZoneMin     490             //get stick drift
+#define JoyXDeadZoneMax     620
+#define JoyYDeadZoneMin     420
+#define JoyYDeadZoneMax     620
+//==========================================================================================================
+//**************************************** RF Data stuff ***************************************************
+//==========================================================================================================
+uint64_t Pipe = 0xF0F0F0F0E1LL; //right
+//uint64_t Pipe = 0xF0F0F0F0D2LL; //left
