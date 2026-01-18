@@ -1,15 +1,5 @@
-# Persephone Pro Controller
+# Persephone Pro Controller V1 BOM
 
-Persephone Pro controller is a DiY, "knuckle"-like controller for SteamVR
+A full Bill of Materials for the V1 version of Persephone Pro Controller
 
-It uses a 3D printed shell and custom electronics based on Arduino along with Vive Tracker for full 6DoF tracking
-
-The controller uses the excellent [HadesVR](https://github.com/HadesVR/HadesVR) Firmware
-
-## V1 (WiP)
-- ### [Changelog](/Changelog/V1/V1.md)
-- ### [Firmware](/Software/Firmware/V1/)
-- ### [BOM](/Software/Firmware/V1/)
-
-## V1.2 (WiP)
-- ### [Changelog](/Changelog/V1.2/V1.2.md)
+- #### [Arduino Uno Mini]()
