@@ -10,6 +10,7 @@ The controller uses the excellent [HadesVR](https://github.com/HadesVR/HadesVR) 
 - ### [Changelog](/Changelog/V1/V1.md)
 - ### [Firmware](/Software/Firmware/V1/)
 - ### [BOM](/Hardware/V1/BOM.md)
+- ### [Tutorial]()
 
 ## V1.2 (WiP)
 - ### [Changelog](/Changelog/V1.2/V1.2.md)
