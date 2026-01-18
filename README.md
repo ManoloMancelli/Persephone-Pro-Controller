@@ -6,6 +6,8 @@ It uses a 3D printed shell and custom electronics based on Arduino along with Vi
 
 The controller uses the excellend [HadesVR](https://github.com/HadesVR/HadesVR) Firmware
 
-## V1
+## V1 (WiP)
 - ### [Changelog](/Changelog/V1/V1.md)
-- ### [Main IC](/Hardware/Main%20IC/Main%20IC.md)
+
+## V1.2 (WiP)
+- ### [Changelog](/Changelog/V1.2/V1.2.md)
