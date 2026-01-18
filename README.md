@@ -8,6 +8,8 @@ The controller uses the excellent [HadesVR](https://github.com/HadesVR/HadesVR) 
 
 ## V1 (WiP)
 - ### [Changelog](/Changelog/V1/V1.md)
+- ### [Firmware](/Software/Firmware/V1/)
+
 
 ## V1.2 (WiP)
 - ### [Changelog](/Changelog/V1.2/V1.2.md)
