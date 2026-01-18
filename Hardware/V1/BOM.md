@@ -11,4 +11,4 @@ Below list of parts is for a single controller
 - #### [Battery - 1pcs](aliexpress.com/item/32825874862.html)
 - #### [Joystick - 1pcs](aliexpress.com/item/1005009059108766.html)
 - #### [Buttons - 6pcs](aliexpress.com/item/1005001836287232.html)
-- #### [Button PCB - 6pcs]()
+- #### [Button PCB - 6pcs](/Hardware/V1/Electronics/Button%20PCB/Button%20PCB.zip)
