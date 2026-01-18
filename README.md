@@ -1,5 +1,5 @@
 # Persephone Pro Controller
-![1](/Changelog/V1/img/8.01.2026/main.jpeg)
+![1](/img/main.jpeg)
 
 Persephone Pro controller is a DiY, "knuckle"-like controller for SteamVR
 
