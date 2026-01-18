@@ -10,6 +10,13 @@ The controller uses the excellent [HadesVR](https://github.com/HadesVR/HadesVR) 
 
 
 ## V1 (WiP)
+![1](/img/V1/1.jpeg)
+![1](/img/V1/2.jpeg)
+![1](/img/V1/3.jpeg)
+![1](/img/V1/4.jpeg)
+![1](/img/V1/5.jpeg)
+![1](/img/V1/6.jpeg)
+
 - ### [Changelog](/Changelog/V1/V1.md)
 - ### [Firmware](/Software/Firmware/V1/)
 - ### [BOM](/Hardware/V1/BOM.md)
