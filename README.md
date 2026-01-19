@@ -21,7 +21,7 @@ The controller uses the excellent [HadesVR](https://github.com/HadesVR/HadesVR) 
 - ### [Firmware](/Software/Firmware/V1/)
 - ### [BOM](/Hardware/V1/BOM.md)
 - ### [STL Files]()
-- ### [Tutorial]()
+- ### [Tutorial](/Docs/V1/Tutorial.md)
 
 ## V1.2 (WiP)
 - ### [Changelog](/Changelog/V1.2/V1.2.md)
