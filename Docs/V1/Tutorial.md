@@ -12,3 +12,23 @@
 ## Mechanical Assembly
 
 ## Component Wiring
+
+### - MPU6500 Wiring
+![1](/Docs/V1/IMG/mpu_wiring.png)
+
+### - NRF24L01 Wiring
+![1](/Docs/V1/IMG/nrf_wiring.png)
+
+### - TP4056 and Battery Wiring
+![1](/Docs/V1/IMG/battery_wiring.png)
+
+### - Joystick Wiring
+![1](/Docs/V1/IMG/joystick_wiring.png
+
+### - Finger Array Wiring
+![1](/Docs/V1/IMG/fingers_wiring.png
+
+### - A / B Button Wiring
+![1](/Docs/V1/IMG/ab_wiring.png
+
+## Firmware Installation
