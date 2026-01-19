@@ -2,4 +2,4 @@
 
 ## Required Parts and Tools
 
-### - All of the electronic parts included in the [BOM File](/Hardware/V1/BOM.md)
+#### - All of the electronic parts included in the [BOM File](/Hardware/V1/BOM.md)
