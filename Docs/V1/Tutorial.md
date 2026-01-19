@@ -6,6 +6,7 @@
 #### - Soldering Iron with fine tip
 #### - Phillips Screwdriver
 #### - Thin wire
+#### - Double sided tape
 #### - [3D printed parts]()
 
 ## Mechanical Assembly
