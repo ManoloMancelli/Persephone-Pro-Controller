@@ -23,12 +23,12 @@
 ![1](/Docs/V1/IMG/battery_wiring.png)
 
 ### - Joystick Wiring
-![1](/Docs/V1/IMG/joystick_wiring.png
+![1](/Docs/V1/IMG/joystick_wiring.png)
 
 ### - Finger Array Wiring
-![1](/Docs/V1/IMG/fingers_wiring.png
+![1](/Docs/V1/IMG/fingers_wiring.png)
 
 ### - A / B Button Wiring
-![1](/Docs/V1/IMG/ab_wiring.png
+![1](/Docs/V1/IMG/ab_wiring.png)
 
 ## Firmware Installation
