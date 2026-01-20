@@ -7,3 +7,4 @@ Quantities provided are for a single controller
 ### Electronics
 
 #### - [10k Potentiometer](aliexpress.com/item/32869141485.html) - 5 Pcs
+#### - [ESP-WROOM-32](amazon.com/KeeYees-Development-Bluetooth-Microcontroller-ESP-WROOM-32/dp/B07QCP2451) - 1 Pcs
