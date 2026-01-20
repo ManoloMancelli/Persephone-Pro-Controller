@@ -28,3 +28,4 @@ The controller uses the excellent [HadesVR](https://github.com/HadesVR/HadesVR) 
 
 ## V2 (WiP - Planning stage)
 - ### [Changelog](/Changelog/V2/V2.md)
+- ### [BOM](/Hardware/V2/BOM.md)
