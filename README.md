@@ -25,3 +25,6 @@ The controller uses the excellent [HadesVR](https://github.com/HadesVR/HadesVR) 
 
 ## V1.2 (WiP)
 - ### [Changelog](/Changelog/V1.2/V1.2.md)
+
+## V2 (WiP - Planning stage)
+- ### [Changelog](/Changelog/V2/V2.md)
