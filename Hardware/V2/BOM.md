@@ -6,7 +6,7 @@ Quantities provided are for a single controller
 
 ### Components
 
-#### - [10k Potentiometer](https://aliexpress.com/item/32869141485.html) - 5 Pcs
+#### - [10k Potentiometer](https://aliexpress.com/item/1005004816793978.html) - 5 Pcs
 #### - [ESP-WROOM-32](https://aliexpress.com/item/1005009709643094.html) - 1 Pcs
 #### - Thin wire
 #### - 3D printed parts
