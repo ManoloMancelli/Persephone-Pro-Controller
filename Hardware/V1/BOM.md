@@ -11,6 +11,8 @@ Below list of parts is for a single controller
 ![1](/Hardware/V1/img/nrf24l01.png)
 
 - #### [MPU6500 - 1pcs](http://aliexpress.com/item/1005009877371293.html)
+![1](/Hardware/V1/img/mpu.png)
+
 - #### [TP4056 - 1pcs](http://aliexpress.com/item/1005009519806288.html)
 - #### [Battery - 1pcs](http://aliexpress.com/item/32825874862.html)
 - #### [Joystick - 1pcs](http://aliexpress.com/item/1005009059108766.html)
