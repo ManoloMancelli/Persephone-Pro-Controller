@@ -82,3 +82,11 @@
 ![1](/Docs/V1/IMG/fingers_wiring.png)
 
 ## Firmware Installation
+
+- ### Connect the Controller to your PC using Arduino UNO USB port
+
+- ### Open the [Firmware]() using Arduino IDE
+
+- ### Select correct board and port inside Arduino IDE
+
+- ### Upload the code
