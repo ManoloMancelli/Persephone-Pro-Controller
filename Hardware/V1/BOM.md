@@ -14,6 +14,8 @@ Below list of parts is for a single controller
 ![1](/Hardware/V1/img/mpu.png)
 
 - #### [TP4056 - 1pcs](http://aliexpress.com/item/1005009519806288.html)
+![1](/Hardware/V1/img/tp4056.png)
+
 - #### [Battery - 1pcs](http://aliexpress.com/item/32825874862.html)
 - #### [Joystick - 1pcs](http://aliexpress.com/item/1005009059108766.html)
 - #### [Buttons - 6pcs](http://aliexpress.com/item/1005001836287232.html)
