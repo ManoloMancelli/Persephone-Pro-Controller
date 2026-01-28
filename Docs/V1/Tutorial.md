@@ -29,6 +29,19 @@
 - ### Stick the TP4056 and Battery into the Main Frame
 ![1](/Docs/V1/IMG/tp4056_frame.jpeg)
 
+- ### Apply small ammount of double sided tape to Uno Mini, MPU-6500 and NRF24L01
+![1](/Docs/V1/IMG/electronics_tape.jpeg)
+
+- ### Stick the Uno Mini, MPU-6500 and NRF24L01 into the Main Frame
+![1](/Docs/V1/IMG/electronics_frame.jpeg)
+
+
+
+
+
+
+
+
 
 
 
