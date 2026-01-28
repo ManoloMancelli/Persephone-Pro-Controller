@@ -44,6 +44,21 @@
 - ### Assemble the Joystick on top of the frame using self tapping screws
 ![1](/Docs/V1/IMG/joystick_frame.jpeg)
 
+- ### Wire the MPU-6500
+![1](/Docs/V1/IMG/mpu_wiring.png)
+
+- ### Wire the NRF24L01
+![1](/Docs/V1/IMG/nrf_wiring.png)
+
+- ### Wire the Battery and TP4056
+![1](/Docs/V1/IMG/battery_wiring.png)
+
+- ### Wire the Joystick
+![1](/Docs/V1/IMG/joystick_wiring.png)
+
+- ### Wire the A/B Buttons
+![1](/Docs/V1/IMG/ab_wiring.png)
+
 ## Finger Array Assembly
 
 - ### 3D print the [Finger Array]()
@@ -60,24 +75,10 @@
 ![1](/Docs/V1/IMG/bumper_3d_print.png)
 
 
+
 ## Component Wiring
-
-### - MPU6500 Wiring
-![1](/Docs/V1/IMG/mpu_wiring.png)
-
-### - NRF24L01 Wiring
-![1](/Docs/V1/IMG/nrf_wiring.png)
-
-### - TP4056 and Battery Wiring
-![1](/Docs/V1/IMG/battery_wiring.png)
-
-### - Joystick Wiring
-![1](/Docs/V1/IMG/joystick_wiring.png)
 
 ### - Finger Array Wiring
 ![1](/Docs/V1/IMG/fingers_wiring.png)
-
-### - A / B Button Wiring
-![1](/Docs/V1/IMG/ab_wiring.png)
 
 ## Firmware Installation
