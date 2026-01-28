@@ -23,4 +23,7 @@ Below list of parts is for a single controller
 ![1](/Hardware/V1/img/joystick.png)
 
 - #### [Buttons - 6pcs](http://aliexpress.com/item/1005001836287232.html)
+![1](/Hardware/V1/img/button.png)
+
 - #### [Button PCB - 6pcs](/Hardware/V1/Electronics/Button%20PCB/Button%20PCB.zip)
+![1](/Docs/V1/IMG/button%20pcb.jpeg)
