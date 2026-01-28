@@ -61,7 +61,10 @@
 ![1](/Docs/V1/IMG/joystick_wiring.png)
 
 - ### Wire the A/B Buttons
-![1](/Docs/V1/IMG/ab_wiring.png)
+![1](/Docs/V1/IMG/ab_wiring.jpeg)
+
+- ### It should now look more or less like this 
+![1](/Docs/V1/IMG/frame_wiring_done.png)
 
 ## Finger Array Assembly
 
