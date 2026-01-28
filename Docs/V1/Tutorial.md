@@ -6,7 +6,7 @@
 #### - Soldering Iron with fine tip
 #### - Phillips Screwdriver
 #### - Thin wire (I use Kynar)
-#### - Double sided tape
+#### - Double sided tape (Basic type. Nothing fancy)
 #### - [3D printed parts]()
 
 ## Mechanical Assembly
