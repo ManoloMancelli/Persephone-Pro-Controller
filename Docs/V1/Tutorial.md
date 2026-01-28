@@ -15,6 +15,7 @@
 ![1](/Docs/V1/IMG/main%20frame%203d%20print.png)
 
 - ### Assemble the [Button PCBs - 2pcs](/Hardware/V1/Electronics/Button%20PCB/Button%20PCB.zip)
+![1](/Docs/V1/IMG/button%20pcb.jpeg)
 
 ## Component Wiring
 
