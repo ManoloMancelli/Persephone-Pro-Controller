@@ -41,7 +41,8 @@
 - ### Melt the plastic pillars with your soldering iron
 ![1](/Docs/V1/IMG/pillars_melt.jpeg)
 
-
+- ### Assemble the Joystick on top of the frame using self tapping screws
+![1](/Docs/V1/IMG/joystick_frame.jpeg)
 
 
 
