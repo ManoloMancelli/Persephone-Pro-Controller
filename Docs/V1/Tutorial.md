@@ -17,6 +17,12 @@
 - ### Assemble the [Button PCBs - 2pcs](/Hardware/V1/Electronics/Button%20PCB/Button%20PCB.zip)
 ![1](/Docs/V1/IMG/button%20pcb.jpeg)
 
+- ### Cut off the battery connector if it comes with one
+![1](/Docs/V1/IMG/battery_connector.jpeg)
+
+- ### Solder the battery to the TP4056 PCB
+![1](/Docs/V1/IMG/tp4056.jpeg)
+
 ## Component Wiring
 
 ### - MPU6500 Wiring
