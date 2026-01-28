@@ -11,6 +11,9 @@
 
 ## Mechanical Assembly
 
+- 3D print the [Main Frame]()
+![1]()
+
 ## Component Wiring
 
 ### - MPU6500 Wiring
