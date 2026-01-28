@@ -16,7 +16,9 @@ Below list of parts is for a single controller
 - #### [TP4056 - 1pcs](http://aliexpress.com/item/1005009519806288.html)
 ![1](/Hardware/V1/img/tp4056.png)
 
-- #### [Battery - 1pcs](http://aliexpress.com/item/32825874862.html)
+- #### [Battery 3.7V 20x30mm - 1pcs](http://aliexpress.com/item/1005003495504020.html)
+![1](/Hardware/V1/img/battery.png)
+
 - #### [Joystick - 1pcs](http://aliexpress.com/item/1005009059108766.html)
 - #### [Buttons - 6pcs](http://aliexpress.com/item/1005001836287232.html)
 - #### [Button PCB - 6pcs](/Hardware/V1/Electronics/Button%20PCB/Button%20PCB.zip)
