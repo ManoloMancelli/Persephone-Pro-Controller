@@ -44,7 +44,7 @@
 - ### Assemble the Joystick on top of the frame using self tapping screws
 ![1](/Docs/V1/IMG/joystick_frame.jpeg)
 
-
+## Finger Array Assembly
 
 
 
