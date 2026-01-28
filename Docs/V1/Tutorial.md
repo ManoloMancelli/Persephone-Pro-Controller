@@ -11,7 +11,7 @@
 
 ## Mechanical Assembly
 
-- 3D print the [Main Frame]()
+- ### 3D print the [Main Frame]()
 ![1]()
 
 ## Component Wiring
