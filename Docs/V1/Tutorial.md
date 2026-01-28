@@ -46,8 +46,11 @@
 
 ## Finger Array Assembly
 
+- ### 3D print the [Finger Array]()
+![1](/Docs/V1/IMG/fingers_3d_print.png)
 
-
+- ### Assemble the [Button PCBs - 4pcs](/Hardware/V1/Electronics/Button%20PCB/Button%20PCB.zip)
+![1](/Docs/V1/IMG/button%20pcb.jpeg)
 
 ## Bumper Assembly
 - ### 3D print the [Bumper]()
