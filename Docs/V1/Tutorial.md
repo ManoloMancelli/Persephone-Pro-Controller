@@ -8,11 +8,14 @@
 #### - Thin wire
 #### - Double sided tape
 #### - [3D printed parts]()
+#### - [Button PCB](/Hardware/V1/Electronics/Button%20PCB/Button%20PCB.zip)
 
 ## Mechanical Assembly
 
 - ### 3D print the [Main Frame]()
 ![1](/Docs/V1/IMG/main%20frame%203d%20print.png)
+
+- ### Assemble the [Button PCBs - 2pcs](/Hardware/V1/Electronics/Button%20PCB/Button%20PCB.zip)
 
 ## Component Wiring
 
