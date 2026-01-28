@@ -9,7 +9,7 @@
 #### - Double sided tape (Basic type. Nothing fancy)
 #### - [3D printed parts]()
 
-## Mechanical Assembly
+## Main Frame Assembly
 
 - ### 3D print the [Main Frame]()
 ![1](/Docs/V1/IMG/main%20frame%203d%20print.png)
