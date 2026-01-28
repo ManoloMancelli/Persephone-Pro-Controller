@@ -35,9 +35,11 @@
 - ### Stick the Uno Mini, MPU-6500 and NRF24L01 into the Main Frame
 ![1](/Docs/V1/IMG/electronics_frame.jpeg)
 
+- ### Grab the Button PCBs and stick them over the plastic pillars
+![1](/Docs/V1/IMG/button_pillars.jpeg)
 
-
-
+- ### Melt the plastic pillars with your soldering iron
+![1](/Docs/V1/IMG/pillars_melt.jpeg)
 
 
 
