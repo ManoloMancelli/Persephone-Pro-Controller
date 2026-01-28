@@ -8,6 +8,8 @@ Below list of parts is for a single controller
 ![1](/Hardware/V1/img/uno%20mini.png)
 
 - #### [NRF24L01 - 1pcs](http://aliexpress.com/item/1005001580632657.html)
+![1](/Hardware/V1/img/nrf24l01.png)
+
 - #### [MPU6500 - 1pcs](http://aliexpress.com/item/1005009877371293.html)
 - #### [TP4056 - 1pcs](http://aliexpress.com/item/1005009519806288.html)
 - #### [Battery - 1pcs](http://aliexpress.com/item/32825874862.html)
