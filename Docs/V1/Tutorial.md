@@ -23,6 +23,21 @@
 - ### Solder the battery to the TP4056 PCB
 ![1](/Docs/V1/IMG/tp4056.jpeg)
 
+- Apply small ammount of double sided tape to TP4056 and Battery
+![1](/Docs/V1/IMG/tp4056_tape.jpeg)
+
+
+
+
+
+
+
+
+## Bumper Assembly
+- ### 3D print the [Bumper]()
+![1](/Docs/V1/IMG/bumper_3d_print.png)
+
+
 ## Component Wiring
 
 ### - MPU6500 Wiring
