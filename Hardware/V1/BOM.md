@@ -4,7 +4,7 @@ A full Bill of Materials for the V1 version of Persephone Pro Controller
 
 Below list of parts is for a single controller
 
-- #### [Arduino Uno Mini - 1pcs](aliexpress.com/item/1005009656475222.html)
+- #### [Arduino Uno Mini - 1pcs](http://aliexpress.com/item/1005009656475222.html)
 - #### [NRF24L01 - 1pcs](aliexpress.com/item/1005001580632657.html)
 - #### [MPU6500 - 1pcs](aliexpress.com/item/1005009877371293.html)
 - #### [TP4056 - 1pcs](aliexpress.com/item/1005009519806288.html)
