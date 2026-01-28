@@ -83,7 +83,7 @@
 
 ## Firmware Installation
 
-- ### Connect the Controller to your PC using Arduino UNO USB port
+- ### Connect the Controller to your PC using Arduino UNO Mini USB port
 
 - ### Open the [Firmware]() using Arduino IDE
 
