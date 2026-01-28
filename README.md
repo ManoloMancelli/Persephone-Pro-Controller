@@ -10,6 +10,13 @@ The controller uses the excellent [HadesVR](https://github.com/HadesVR/HadesVR) 
 
 
 ## V1 (WiP)
+
+Version 1.0 is meant to function as a "testing rig" for the project.
+
+It's not meant to look pretty and some of the parts may feel uncomfortable.
+
+It's a simple build that will show you how everything works and it's designed to use as cheap parts as possible so if it turns out it's not for you then you won't feel any guilt about it.
+
 ![1](/img/V1/1.jpeg)
 ![1](/img/V1/2.jpeg)
 ![1](/img/V1/3.jpeg)
