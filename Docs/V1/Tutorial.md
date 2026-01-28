@@ -23,11 +23,11 @@
 - ### Solder the battery to the TP4056 PCB
 ![1](/Docs/V1/IMG/tp4056.jpeg)
 
-- Apply small ammount of double sided tape to TP4056 and Battery
+- ### Apply small ammount of double sided tape to TP4056 and Battery
 ![1](/Docs/V1/IMG/tp4056_tape.jpeg)
 
-
-
+- ### Stick the TP4056 and Battery into the Main Frame
+![1](/Docs/V1/IMG/tp4056_frame.jpeg)
 
 
 
