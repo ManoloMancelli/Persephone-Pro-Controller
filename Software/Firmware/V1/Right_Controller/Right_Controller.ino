@@ -68,7 +68,6 @@ struct ctrlData {
 };
 ctrlData data;
 
-
 int tracky;
 int trackoutput;
 int axisX;
@@ -258,7 +257,7 @@ void loop() {
     if (axisY < JoyYMin) {
       axisY = JoyYMin;
     }
-    data.axisY = map(axisY, JoyYMin, JoyYMax, -127, 127);
+    data.axisY = map(axisY, JoyYMin, JoyYMax, 127, -127);
     btn |= IB_ThumbStickTouch;
     joyTouch = true;
   } else {
@@ -321,7 +320,7 @@ void loop() {
 
 
   data.BTN = btn;
-  data.trackY = (trackoutput * 127);
+  // data.trackY = (trackoutput * 127);
   data.vBAT = (map(analogRead(VbatPin), 787, BatLevelMax, 0, 255));
   data.qW = (int16_t)(filter.getQuatW() * 32767.f);
   data.qX = (int16_t)(filter.getQuatY() * 32767.f);

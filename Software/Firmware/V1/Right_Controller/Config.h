@@ -18,7 +18,7 @@
 #define TriggerPin          A3
 #define VbatPin             A6
 #define BatLevelMax         968             //you need to find all of these values on your own
-#define JoyXMin             237             //check on the utils folder for sketches and instructions
+#define JoyXMin             190             //check on the utils folder for sketches and instructions
 #define JoyXMax             935             //that help on getting these values
 #define JoyYMin             190             //YOU NEED TO DO THIS FOR BOTH CONTROLLERS
 #define JoyYMax             900             //if you use these values without changing them you MAY
