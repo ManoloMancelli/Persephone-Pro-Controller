@@ -95,11 +95,6 @@
 - ### Melt filament ends with your soldering iron
 ![1](/Docs/V1/IMG/hinges_melt.jpeg)
 
-- ### Attach the Finger Array to the Main Frame
-![1](/Docs/V1/IMG/finger_assembly.jpeg)
-
-
-
 ## Bumper Assembly
 - ### 3D print the [Bumper]()
 ![1](/Docs/V1/IMG/bumper_3d_print.png)
