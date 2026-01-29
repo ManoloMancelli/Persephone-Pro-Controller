@@ -71,7 +71,7 @@
 ![1](/Docs/V1/IMG/bumper_3d_print.png)
 
 - ### Attach the Bumper to the Main Frame using two self-tapping screws
-![1](/Docs/V1/IMG/bumper_assembly.png)
+![1](/Docs/V1/IMG/bumper_assembly.jpeg)
 
 ## Finger Array Assembly
 
