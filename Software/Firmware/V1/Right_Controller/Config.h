@@ -7,7 +7,7 @@
 #define APin                4
 #define BPin                3
 #define SysPin              5
-#define FingerIndexPin      11
+#define FingerIndexPin      1
 #define FingerMiddlePin     6
 #define FingerRingPin       7
 #define FingerPinkyPin      8
