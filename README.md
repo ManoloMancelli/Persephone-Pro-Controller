@@ -28,6 +28,7 @@ It's a simple build that will show you how everything works and it's designed to
 - ### [Firmware](/Software/Firmware/V1/)
 - ### [BOM](/Hardware/V1/BOM.md)
 - ### [STL Files]()
+- ### [CAD Files]()
 - ### [Tutorial](/Docs/V1/Tutorial.md)
 
 ## V1.2 (WiP)
