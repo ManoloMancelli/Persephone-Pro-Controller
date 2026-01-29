@@ -66,6 +66,13 @@
 - ### It should now look more or less like this 
 ![1](/Docs/V1/IMG/frame_wiring_done.jpeg)
 
+## Bumper Assembly
+- ### 3D print the [Bumper](/Hardware/V1/STL/Bumper.stl)
+![1](/Docs/V1/IMG/bumper_3d_print.png)
+
+- ### Attach the Bumper to the Main Frame using two self-tapping screws
+![1](/Docs/V1/IMG/bumper_assembly.png)
+
 ## Finger Array Assembly
 
 - ### 3D print the [Finger Array]()
@@ -95,16 +102,11 @@
 - ### Melt filament ends with your soldering iron
 ![1](/Docs/V1/IMG/hinges_melt.jpeg)
 
-## Bumper Assembly
-- ### 3D print the [Bumper](/Hardware/V1/STL/Bumper.stl)
-![1](/Docs/V1/IMG/bumper_3d_print.png)
+## Vive Tracker installation
 
+- ### Screw the Vive Tracker onto the thread placed on the Bumper
+![1](/Docs/V1/IMG/tracker.jpeg)
 
-
-## Component Wiring
-
-### - Finger Array Wiring
-![1](/Docs/V1/IMG/fingers_wiring.png)
 
 ## Firmware Installation
 
