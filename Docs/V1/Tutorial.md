@@ -83,7 +83,8 @@
 - ### Melt the plastic pillars with your soldering iron
 ![1](/Docs/V1/IMG/finger_pillars_melt.jpeg)
 
-
+- ### Connect the Finger Array
+![1](/Docs/V1/IMG/finger_wiring.png)
 
 
 
