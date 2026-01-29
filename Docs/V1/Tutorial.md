@@ -77,6 +77,20 @@
 - ### Assemble the [Button PCBs - 4pcs](/Hardware/V1/Electronics/Button%20PCB/Button%20PCB.zip)
 ![1](/Docs/V1/IMG/button%20pcb.jpeg)
 
+- ### Place the Button PCBs over the plastic pillars
+![1](/Docs/V1/IMG/finger_pillars.jpeg)
+
+- ### Melt the plastic pillars with your soldering iron
+![1](/Docs/V1/IMG/finger_pillars_melt.jpeg)
+
+
+
+
+
+
+
+
+
 ## Bumper Assembly
 - ### 3D print the [Bumper]()
 ![1](/Docs/V1/IMG/bumper_3d_print.png)
