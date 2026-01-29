@@ -110,6 +110,8 @@
 - ### Screw the Vive Tracker onto the thread placed on the Bumper
 ![1](/Docs/V1/IMG/tracker.jpeg)
 
+- ### Make sure that the Pogo Pins are in parallel to the Bumper
+![1](/Docs/V1/IMG/pogo.jpeg)
 
 ## Firmware Installation
 
