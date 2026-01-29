@@ -102,6 +102,9 @@
 - ### Melt filament ends with your soldering iron
 ![1](/Docs/V1/IMG/hinges_melt.jpeg)
 
+- ### Attach the Finger Array to the Bumper
+![1](/Docs/V1/IMG/finger_assembly.jpeg)
+
 ## Vive Tracker installation
 
 - ### Screw the Vive Tracker onto the thread placed on the Bumper
