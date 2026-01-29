@@ -64,7 +64,7 @@
 ![1](/Docs/V1/IMG/ab_wiring.jpeg)
 
 - ### It should now look more or less like this 
-![1](/Docs/V1/IMG/frame_wiring_done.png)
+![1](/Docs/V1/IMG/frame_wiring_done.jpeg)
 
 ## Finger Array Assembly
 
