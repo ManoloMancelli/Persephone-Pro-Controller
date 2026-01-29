@@ -1,7 +1,7 @@
 # Persephone Pro Controller V1 Assembly Guide
 
 #
-## This tutorial implies that you already have a working HadesVR headset
+## This tutorial assumes that you already have a working HadesVR headset
 #
 
 ## Required Parts and Tools
