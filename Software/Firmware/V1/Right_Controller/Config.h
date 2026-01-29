@@ -12,8 +12,8 @@
 #define FingerRingPin       7
 #define FingerPinkyPin      8
 #define TrackpadPin         A0
-#define JoyXPin             A1
-#define JoyYPin             A2
+#define JoyXPin             A2
+#define JoyYPin             A1
 #define JoyClickPin         2
 #define TriggerPin          A3
 #define VbatPin             A6
