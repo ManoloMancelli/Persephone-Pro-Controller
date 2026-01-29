@@ -86,7 +86,14 @@
 - ### Connect the Finger Array
 ![1](/Docs/V1/IMG/finger_wiring.png)
 
+- ### Slide Finger Buttons between the hinge pieces
+![1](/Docs/V1/IMG/hinges.jpeg)
 
+- ### Insert pieces of filament into the hinges
+![1](/Docs/V1/IMG/hinges_filament.jpeg)
+
+- ### Melt filament ends with your soldering iron
+![1](/Docs/V1/IMG/hinges_melt.jpeg)
 
 
 
