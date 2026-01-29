@@ -96,7 +96,7 @@
 ![1](/Docs/V1/IMG/hinges_melt.jpeg)
 
 ## Bumper Assembly
-- ### 3D print the [Bumper]()
+- ### 3D print the [Bumper](/Hardware/V1/STL/Bumper.stl)
 ![1](/Docs/V1/IMG/bumper_3d_print.png)
 
 
