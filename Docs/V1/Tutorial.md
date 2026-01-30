@@ -137,6 +137,7 @@
 
 - #### In the App window, write "uploadconfig LHR-270B4DF0.JSON"
 
+- #### Hit enter, wait a while and close the app
 #
 #
 #
