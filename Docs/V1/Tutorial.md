@@ -129,6 +129,13 @@
 
 - #### Go to C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\lighthouse\bin\win32
 
+- #### Copy the firmware file to this location
+
+- #### Connect the Vive Tracker using USB cable to your PC (Don't connect dongle!)
+
+- #### Open lighthouse_console.exe
+
+- #### In the App window, write "uploadconfig LHR-270B4DF0.JSON"
 
 #
 #
