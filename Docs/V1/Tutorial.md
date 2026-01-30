@@ -115,6 +115,9 @@
 
 ## Firmware Installation
 
+- ### Disconnect the wire that goes to Uno Pin 1
+![1](/Docs/V1/IMG/pin1_disconnect.jpeg)
+
 - ### Connect the Controller to your PC using Arduino UNO Mini USB port
 
 - ### Open the [Firmware](/Software/Firmware/V1/Right_Controller) using Arduino IDE
