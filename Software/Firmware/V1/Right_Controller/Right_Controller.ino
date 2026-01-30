@@ -24,26 +24,26 @@
 //==========================================================================================================
 //*****************************************Basic Config*****************************************************
 //==========================================================================================================
-MPU6050 IMU;                             //Gyroscope Model
-RF24 radio(9, 10);                       //NRF24L01 Pins
+MPU6050 IMU;        //Gyroscope Model
+RF24 radio(9, 10);  //NRF24L01 Pins
 //==========================================================================================================
 
-calData calib =
-{ false,                   //data valid?
-  {0, 0, 0},              //Accel bias
-  {0, 0, 0},              //Gyro bias
-  {0, 0, 0},              //Mag bias
-  {1, 1, 1},              //Mag Scale
+calData calib = {
+  false,        //data valid?
+  { 0, 0, 0 },  //Accel bias
+  { 0, 0, 0 },  //Gyro bias
+  { 0, 0, 0 },  //Mag bias
+  { 1, 1, 1 },  //Mag Scale
 };
 
-#define IB_AClick           0x0001
-#define IB_ATouch           0x0002
-#define IB_BClick           0x0004
-#define IB_BTouch           0x0008
-#define IB_SYSClick         0x0010
-#define IB_ThumbStickClick  0x0020
-#define IB_TrackpadTouch    0x0040
-#define IB_ThumbStickTouch  0x0080
+#define IB_AClick 0x0001
+#define IB_ATouch 0x0002
+#define IB_BClick 0x0004
+#define IB_BTouch 0x0008
+#define IB_SYSClick 0x0010
+#define IB_ThumbStickClick 0x0020
+
+#define IB_ThumbStickTouch 0x0080
 struct ctrlData {
   int16_t qW;
   int16_t qX;
@@ -53,17 +53,17 @@ struct ctrlData {
   int16_t accY;
   int16_t accZ;
   uint16_t BTN;
-  uint8_t  trigg;
-  int8_t  axisX;
-  int8_t  axisY;
-  int8_t  trackY;
-  uint8_t  vBAT;
-  uint8_t  fingerThumb;
-  uint8_t  fingerIndex;
-  uint8_t  fingerMiddle;
-  uint8_t  fingerRing;
-  uint8_t  fingerPinky;
-  uint8_t  gripForce;
+  uint8_t trigg;
+  int8_t axisX;
+  int8_t axisY;
+  int8_t trackY;
+  uint8_t vBAT;
+  uint8_t fingerThumb;
+  uint8_t fingerIndex;
+  uint8_t fingerMiddle;
+  uint8_t fingerRing;
+  uint8_t fingerPinky;
+  uint8_t gripForce;
   uint16_t Data;
 };
 ctrlData data;
@@ -82,13 +82,13 @@ float rot = 0.f;
 
 void setup() {
   Wire.begin();
-  Wire.setClock(400000); //400khz clock
+  Wire.setClock(400000);  //400khz clock
 
   pinMode(APin, INPUT_PULLUP);
   pinMode(BPin, INPUT_PULLUP);
   pinMode(SysPin, INPUT_PULLUP);
   pinMode(JoyClickPin, INPUT_PULLUP);
-  pinMode(TriggerPin, INPUT_PULLUP);
+
   pinMode(FingerPinkyPin, INPUT_PULLUP);
   pinMode(FingerRingPin, INPUT_PULLUP);
   pinMode(FingerMiddlePin, INPUT_PULLUP);
@@ -106,31 +106,27 @@ void setup() {
   radio.setAutoAck(false);
 
   int err = IMU.init(calib, IMU_ADDRESS);
-  if (err != 0)
-  {
+  if (err != 0) {
     Serial.print("IMU ERROR: ");
     Serial.println(err);
-    while (true);
+    while (true)
+      ;
   }
-  if (!radio.isChipConnected())
-  {
+  if (!radio.isChipConnected()) {
     Serial.println("NRF24L01 Module not detected!");
-    while (true);
-  }
-  else
-  {
+    while (true)
+      ;
+  } else {
     Serial.println("NRF24L01 Module up and running!");
   }
 
   EEPROM.get(210, calib);
 
-  bool calDone = !calib.valid;                             //check if calibration values are on flash
-  while (calDone)
-  {
+  bool calDone = !calib.valid;  //check if calibration values are on flash
+  while (calDone) {
     delay(1000);
     Serial.print("Calibration not done!");
-    if (!digitalRead(CALPIN))
-    {
+    if (!digitalRead(CALPIN)) {
       calDone = false;
     }
   }
@@ -142,8 +138,7 @@ void setup() {
       IMU.calibrateAccelGyro(&calib);
       Serial.println("Accel & Gyro calibration complete!");
       calib.valid = true;
-    }
-    else {
+    } else {
       if (IMU.hasMagnetometer()) {
         Serial.println("Magnetic calibration mode.");
         Serial.println("Move IMU in figure 8 until done.");
@@ -165,10 +160,10 @@ void setup() {
   data.qY = 0;
   data.qZ = 0;
   data.BTN = 0;
-  data.trigg = 0;
+
   data.axisX = 0;
   data.axisY = 0;
-  data.trackY = 0;
+
   data.vBAT = 0;
   data.fingerThumb = 0;
   data.fingerIndex = 0;
@@ -187,11 +182,11 @@ void setup() {
     data.Data |= 0x400; //controller reports battery %
   */
   err = IMU.init(calib, IMU_ADDRESS);
-  if (err != 0)
-  {
+  if (err != 0) {
     Serial.print("IMU ERROR: ");
     Serial.println(err);
-    while (true);
+    while (true)
+      ;
   }
 }
 
@@ -204,8 +199,7 @@ void loop() {
   if (IMU.hasMagnetometer()) {
     IMU.getMag(&IMUMag);
     filter.update(IMUGyro.gyroX, IMUGyro.gyroY, IMUGyro.gyroZ, IMUAccel.accelX, IMUAccel.accelY, IMUAccel.accelZ, IMUMag.magX, IMUMag.magY, IMUMag.magZ);
-  }
-  else {
+  } else {
     filter.updateIMU(IMUGyro.gyroX, IMUGyro.gyroY, IMUGyro.gyroZ, IMUAccel.accelX, IMUAccel.accelY, IMUAccel.accelZ);
   }
 
@@ -216,22 +210,7 @@ void loop() {
 
   joyTouch = false;
   int btn = 0;
-  tracky = analogRead(TrackpadPin);
-  if (tracky > 560) {
-    trackoutput = 1;
-    btn |= IB_TrackpadTouch;
-  }
-  if (tracky < 300 && tracky > 100) {
-    trackoutput = 0;
-    btn |= IB_TrackpadTouch;
-  }
-  if (tracky == 0) {
-    trackoutput = -1;
-    btn |= IB_TrackpadTouch;
-  }
-  if (tracky < 550 && tracky > 400) {
-    trackoutput = 0;
-  }
+
 
   axisX = analogRead(JoyXPin);
   axisY = analogRead(JoyYPin);
@@ -265,16 +244,6 @@ void loop() {
   }
 
 
-  if (analogRead(TriggerPin) < 1000) {
-    data.trigg = map(analogRead(TriggerPin), 1024, 0, 0, 255);
-    data.fingerIndex = map(analogRead(TriggerPin), 1024, 0, 0, 255);
-  }
-  else {
-    data.trigg = 0;
-    data.fingerIndex = 0;
-  }
-
-
   if (!digitalRead(APin)) {
     btn |= IB_AClick;
     btn |= IB_ATouch;
@@ -289,32 +258,29 @@ void loop() {
   if (!digitalRead(JoyClickPin)) {
     btn |= IB_ThumbStickClick;
   }
-  //  if (digitalRead(FingerIndexPin)) {
-  //    data.fingerIndex = 255;
-  //  }
-  //  else {
-  //    data.fingerIndex = 0;
-  //  }
+    if (digitalRead(FingerIndexPin)) {
+      data.fingerIndex = 0;
+    }
+    else {
+      data.fingerIndex = 255;
+    }
   data.gripForce = 0;
   if (digitalRead(FingerMiddlePin)) {
     data.fingerMiddle = 0;
     data.gripForce += 128;
-  }
-  else {
+  } else {
     data.fingerMiddle = 255;
   }
   if (digitalRead(FingerRingPin)) {
     data.fingerRing = 0;
-     data.gripForce += 64;
-  }
-  else {
+    data.gripForce += 64;
+  } else {
     data.fingerRing = 255;
   }
   if (digitalRead(FingerPinkyPin)) {
     data.fingerPinky = 0;
-     data.gripForce += 63;
-  }
-  else {
+    data.gripForce += 63;
+  } else {
     data.fingerPinky = 255;
   }
 
@@ -347,8 +313,7 @@ void loop() {
   Serial.print(",GZ: ");
   Serial.println(IMUGyro.gyroZ);
 }
-void printCalibration()
-{
+void printCalibration() {
   Serial.println("Accel biases X/Y/Z: ");
   Serial.print(calib.accelBias[0]);
   Serial.print(", ");
