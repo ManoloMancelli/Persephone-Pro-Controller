@@ -142,19 +142,19 @@
 - Connect the SteamVR Dongle and pair the tracker
 - In SteamVR go to Devices -> Manage Trackers
 
-![1](/Tutorials/SteamVR%20Tracking%20Override/img/0.png)
+![1](/Docs/SteamVR%20Tracking%20Override/img/0.png)
 
 - Make sure your tracker has a green dot next to it
 
-![1](/Tutorials/SteamVR%20Tracking%20Override/img/1.png)
+![1](/Docs/SteamVR%20Tracking%20Override/img/1.png)
 
 - Click on the "Tracker Role" and select "Disabled"
 
-![1](/Tutorials/SteamVR%20Tracking%20Override/img/2.png)
+![1](/Docs/SteamVR%20Tracking%20Override/img/2.png)
 
 - Write down the tracker name
 
-![1](/Tutorials/SteamVR%20Tracking%20Override/img/3.png)
+![1](/Docs/SteamVR%20Tracking%20Override/img/3.png)
 
 ## Tracking Override
 - Close SteamVR if it's running
@@ -168,7 +168,7 @@
    },
 ```
 
-![1](/Tutorials/SteamVR%20Tracking%20Override/img/4.png)
+![1](/Docs/SteamVR%20Tracking%20Override/img/4.png)
 
 - Save the file and close it
 - Open SteamVR and enjoy Tracking Override
