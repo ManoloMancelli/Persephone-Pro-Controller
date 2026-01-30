@@ -119,9 +119,9 @@
 
 - #### Open the [Firmware](/Software/Firmware/V1/Right_Controller) using Arduino IDE
 
-- ### Select correct board and port inside Arduino IDE
+- #### Select correct board and port inside Arduino IDE
 
-- ### Upload the code
+- #### Upload the code
 
 ## Tracking Override
 
