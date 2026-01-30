@@ -11,7 +11,7 @@
 #### - Phillips Screwdriver
 #### - Thin wire (I use Kynar)
 #### - Double sided tape (Basic type. Nothing fancy)
-#### - [3D printed parts]()
+#### - [3D printed parts](/Hardware/V1/STL)
 
 ## Main Frame Assembly
 
