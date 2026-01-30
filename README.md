@@ -9,7 +9,7 @@ The controller uses the excellent [HadesVR](https://github.com/HadesVR/HadesVR) 
 
 
 
-## V1 (WiP)
+## V1 (Finished)
 
 Version 1.0 is meant to function as a "testing rig" for the project.
 
