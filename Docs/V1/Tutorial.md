@@ -123,6 +123,10 @@
 
 - #### Upload the code
 
+- #### Disconnect any VR-related devices (Headset, controller, dongle, etc.)
+
+- #### Download the [Tracker Firmware]()
+
 #
 #
 #
