@@ -164,7 +164,7 @@
 
 ```
    "TrackingOverrides" : {
-      "/devices/htc/vive_trackerLHR-270B4DF0" : "/user/head"
+      "/devices/htc/vive_trackerLHR-270B4DF0" : "/user/hand/right"
    },
 ```
 
