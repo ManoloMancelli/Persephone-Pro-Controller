@@ -125,7 +125,10 @@
 
 - #### Disconnect any VR-related devices (Headset, controller, dongle, etc.)
 
-- #### Download the [Tracker Firmware]()
+- #### Download the [Tracker Firmware](/Software/Tracker%20Firmware)
+
+- #### Go to C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\lighthouse\bin\win32
+
 
 #
 #
