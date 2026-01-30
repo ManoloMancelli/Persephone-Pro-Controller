@@ -135,9 +135,18 @@
 
 - #### Open lighthouse_console.exe
 
+- #### Make a backup of your current firmware!!!
+
+- #### In the App window, write "downloadconfig"
+
+- #### Copy the backup JSON file to a secure location
+
+- #### Upload the GitHub firmware
+
 - #### In the App window, write "uploadconfig LHR-270B4DF0.JSON"
 
 - #### Hit enter, wait a while and close the app
+
 #
 #
 #
