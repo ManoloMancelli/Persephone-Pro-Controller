@@ -38,6 +38,7 @@ It's a simple build that will show you how everything works and it's designed to
 
 A Slightly improved version which doesn't require gyroscope.
 - #### [Changelog](/Changelog/V1.1/V1.1.md)
+- #### [Firmware](/Software/Firmware/V1.1)
 
 ## V1.2 (WiP)
 - ### [Changelog](/Changelog/V1.2/V1.2.md)
