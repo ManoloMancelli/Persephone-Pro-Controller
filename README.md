@@ -11,6 +11,11 @@ The controller uses the excellent [HadesVR](https://github.com/HadesVR/HadesVR) 
 
 ## V1 (Finished)
 
+### Known Issues:
+- Tracker is oriented in wrong position under SteamVR (Don't know how to fix it yet!)
+
+#
+
 Version 1.0 is meant to function as a "testing rig" for the project.
 
 It's not meant to look pretty and some of the parts may feel uncomfortable.
