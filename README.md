@@ -37,7 +37,7 @@ It's a simple build that will show you how everything works and it's designed to
 ## V1.1 (WiP)
 
 A Slightly improved version which doesn't require gyroscope.
-- #### [Changelog](/Changelog/V1/V1.md)
+- #### [Changelog](/Changelog/V1.1/V1.1.md)
 
 ## V1.2 (WiP)
 - ### [Changelog](/Changelog/V1.2/V1.2.md)
