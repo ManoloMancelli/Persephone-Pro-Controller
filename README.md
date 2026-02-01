@@ -14,7 +14,7 @@ The controller uses the excellent [HadesVR](https://github.com/HadesVR/HadesVR) 
 ### Known Issues:
 - Tracker is oriented in wrong position under SteamVR (Don't know how to fix it yet!)
 
-If orientation is important to you and you can't use it as is, wait for the version 1.
+If orientation is important to you and you can't use it as is, wait for the version 1.1
 
 #
 
