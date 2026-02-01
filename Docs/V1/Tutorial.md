@@ -180,7 +180,6 @@
 
 ![1](/Docs/SteamVR%20Tracking%20Override/img/3.png)
 
-## Tracking Override
 - Close SteamVR if it's running
 - Go to C:\Program Files (x86)\Steam\config
 - Open steamvr.VRSETTINGS file with text editor (notepad is fine)
