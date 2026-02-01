@@ -14,6 +14,8 @@ The controller uses the excellent [HadesVR](https://github.com/HadesVR/HadesVR) 
 ### Known Issues:
 - Tracker is oriented in wrong position under SteamVR (Don't know how to fix it yet!)
 
+If orientation is important to you and you can't use it as is, wait for the version 1.
+
 #
 
 Version 1.0 is meant to function as a "testing rig" for the project.
@@ -35,7 +37,7 @@ It's a simple build that will show you how everything works and it's designed to
 ## V1.1 (WiP)
 
 A Slightly improved version which doesn't require gyroscope.
-
+- #### [Changelog](/Changelog/V1/V1.md)
 
 ## V1.2 (WiP)
 - ### [Changelog](/Changelog/V1.2/V1.2.md)
