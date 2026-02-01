@@ -121,32 +121,6 @@
 
 - #### Select correct board and port inside Arduino IDE
 
-- #### Upload the code
-
-- #### Disconnect any VR-related devices (Headset, controller, dongle, etc.)
-
-- #### Download the [Tracker Firmware](/Software/Tracker%20Firmware)
-
-- #### Go to C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\lighthouse\bin\win32
-
-- #### Copy the firmware file to this location
-
-- #### Connect the Vive Tracker using USB cable to your PC (Don't connect dongle!)
-
-- #### Open lighthouse_console.exe
-
-- #### Make a backup of your current firmware!!!
-
-- #### In the App window, write "downloadconfig"
-
-- #### Copy the backup JSON file to a secure location
-
-- #### Upload the GitHub firmware
-
-- #### In the App window, write "uploadconfig LHR-270B4DF0.JSON"
-
-- #### Hit enter, wait a while and close the app
-
 #
 #
 #
