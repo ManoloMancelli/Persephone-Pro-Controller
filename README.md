@@ -9,7 +9,7 @@ The controller uses the excellent [HadesVR](https://github.com/HadesVR/HadesVR) 
 
 
 
-## V1 (Finished)
+## V1 - "Clamp" (Finished)
 
 ### Known Issues:
 - Tracker is oriented in wrong position under SteamVR (Don't know how to fix it yet!)
@@ -34,7 +34,7 @@ It's a simple build that will show you how everything works and it's designed to
 - #### [CAD Files]()
 - #### [Tutorial](/Docs/V1/Tutorial.md)
 
-## V1.1 (WiP)
+## V1.1 - "Gas Pump" (WiP)
 
 A Slightly improved version which doesn't require gyroscope.
 - #### [Changelog](/Changelog/V1.1/V1.1.md)
