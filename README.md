@@ -34,15 +34,8 @@ It's a simple build that will show you how everything works and it's designed to
 - #### [CAD Files]()
 - #### [Tutorial](/Docs/V1/Tutorial.md)
 
-## V1.1 - "Gas Pump" (WiP)
+## V2.0 - "Gas Pump" (WiP)
 
-A Slightly improved version which doesn't require gyroscope.
-- #### [Changelog](/Changelog/V1.1/V1.1.md)
-- #### [Firmware](/Software/Firmware/V1.1)
-
-## V1.2 (WiP)
-- ### [Changelog](/Changelog/V1.2/V1.2.md)
-
-## V2 (WiP - Planning stage)
-- ### [Changelog](/Changelog/V2/V2.md)
-- ### [BOM](/Hardware/V2/BOM.md)
+A Full redesign
+- #### [Changelog]()
+- #### [Firmware]()
