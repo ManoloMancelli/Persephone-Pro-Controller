@@ -37,5 +37,8 @@ It's a simple build that will show you how everything works and it's designed to
 ## V2.0 - "Gas Pump" (WiP)
 
 A Full redesign
-- #### [Changelog]()
 - #### [Firmware]()
+- #### [CAD Files]()
+- #### [STL Files]()
+- #### [HadesVR Index Controller Development Board]()
+- #### [Charger Board]()
