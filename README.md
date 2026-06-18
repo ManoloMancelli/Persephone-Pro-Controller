@@ -37,6 +37,9 @@ It's a simple build that will show you how everything works and it's designed to
 ## V2.0 - "Gas Pump" (WiP)
 
 A Full redesign
+
+![1](/img/V2/1.jpeg)
+
 - #### [Firmware]()
 - #### [CAD Files](https://www.patreon.com/Manollo/posts/persephone-pro-0-161451840/)
 - #### [STL Files](https://www.patreon.com/Manollo/posts/persephone-pro-0-161452585/)
