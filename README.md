@@ -38,7 +38,7 @@ It's a simple build that will show you how everything works and it's designed to
 
 A Full redesign
 - #### [Firmware]()
-- #### [CAD Files]()
-- #### [STL Files]()
+- #### [CAD Files](https://www.patreon.com/Manollo/posts/persephone-pro-0-161451840/)
+- #### [STL Files](https://www.patreon.com/Manollo/posts/persephone-pro-0-161452585/)
 - #### [HadesVR Index Controller Development Board]()
 - #### [Charger Board]()
