@@ -34,11 +34,12 @@ It's a simple build that will show you how everything works and it's designed to
 - #### [CAD Files]()
 - #### [Tutorial](/Docs/V1/Tutorial.md)
 
-## V2.0 - "Gas Pump" (WiP)
+## V2.0 - "Gas Pump" (Finished)
 
 A Full redesign
 
 ![1](/img/V2/1.jpeg)
+![1](/img/V2/4.jpeg)
 
 - #### [Firmware]()
 - #### [CAD Files](https://www.patreon.com/Manollo/posts/persephone-pro-0-161451840/)
